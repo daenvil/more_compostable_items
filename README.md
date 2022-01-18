@@ -9,7 +9,7 @@ This datapack aims to add composting mechanics to all vanilla items which *shoul
 ![Minecraft supported versions](https://img.shields.io/badge/supported%20MC%20versions-1.16.2%2B-green?style=flat-square)
 ![Tested versions](https://img.shields.io/badge/tested%20in-1.16.5%2C%201.17.1%2C%201.18.1-informational?style=flat-square)
 
-- [Latest Release (v1)](https://github.com/daenvil/more_compostable_items/releases/download/v1/more_compostable_items_v1.zip)
+- Latest Release (v1): [Github](https://github.com/daenvil/more_compostable_items/releases/download/v1/more_compostable_items_v1.zip) | [PlanetMinecraft](https://www.planetminecraft.com/data-pack/more-compostable-items/)
 
 ### Installation
 - Drop the datapack zip file inside the "datapacks" folder of your world folder (*\<your minecraft folder\>/saves/\<your world\>/datapacks/*).
