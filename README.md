@@ -113,7 +113,7 @@ This datapack was tested in a multiplayer server with ~10 players and performed 
 
 </details>
 
-*This datapack aims to contain all vanilla items which should be compostable in a realistic way, so if you find any item that is missing or should be changed, please contact me.*
+*This datapack aims to contain all vanilla items which should be compostable in a realistic way, so if you find any item that is missing or should be changed, please [contact me](#contact).*
 
 ### Adding new compostable items
 
