@@ -1,0 +1,6 @@
+{
+    "values": [
+        "dnv.core:check_version",
+        "dnv.recyclecraft:compost/load"
+    ]
+}

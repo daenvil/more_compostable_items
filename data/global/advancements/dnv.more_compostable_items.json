@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "More Compostable Items",
+        "description": "Daenvil's More Compostable Items datapack (v1, for MC1.16.2+)",
+        "icon": {
+            "item": "minecraft:bone_meal"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:dnv.recyclecraft",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "placed_composter": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:composter"
+            }
+        }
+    },
+    "rewards": {
+        "function": "dnv.recyclecraft:compost/placed_composter"
+    }
+}

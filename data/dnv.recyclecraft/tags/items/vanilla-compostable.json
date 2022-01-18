@@ -1,0 +1,98 @@
+{
+    "_comment_": "Contains all items which are compostable in vanilla",
+    "values":[
+        "minecraft:beetroot_seeds",
+        "minecraft:dried_kelp",
+        {
+            "id": "minecraft:glow_berries",
+            "required": false
+        },
+        "minecraft:grass",
+        "minecraft:fern",
+        "minecraft:tall_grass",
+        "minecraft:large_fern",
+        {
+            "id": "minecraft:hanging_roots",
+            "required": false
+        },
+        "minecraft:kelp",
+        "#minecraft:leaves",
+        "minecraft:melon_seeds",
+        {
+            "id": "minecraft:moss_carpet",
+            "required": false
+        },
+        "minecraft:pumpkin_seeds",
+        "#minecraft:saplings",
+        "minecraft:seagrass",
+        {
+            "id": "minecraft:small_dripleaf",
+            "required": false
+        },
+        "minecraft:sweet_berries",
+        "minecraft:wheat_seeds",
+        "minecraft:cactus",
+        "minecraft:dried_kelp_block",
+        {
+            "id": "minecraft:glow_lichen",
+            "required": false
+        },
+        "minecraft:melon_slice",
+        "minecraft:nether_sprouts",
+        "minecraft:sugar_cane",
+        "minecraft:vine",
+        "minecraft:weeping_vines",
+        "minecraft:twisting_vines",
+        "minecraft:apple",
+        {
+            "id": "minecraft:azalea",
+            "required": false
+        },
+        {
+            "id": "minecraft:flowering_azalea",
+            "required": false
+        },
+        "minecraft:beetroot",
+        {
+            "id": "minecraft:big_dripleaf",
+            "required": false
+        },
+        "minecraft:carrot",
+        "minecraft:cocoa_beans",
+        "#minecraft:flowers",
+        "minecraft:lily_pad",
+        "minecraft:melon",
+        {
+            "id": "minecraft:moss_block",
+            "required": false
+        },
+        "minecraft:red_mushroom",
+        "minecraft:brown_mushroom",
+        "minecraft:mushroom_stem",
+        "minecraft:nether_wart",
+        "minecraft:potato",
+        "minecraft:pumpkin",
+        "minecraft:carved_pumpkin",
+        "minecraft:sea_pickle",
+        "minecraft:shroomlight",
+        {
+            "id": "minecraft:spore_blossom",
+            "required": false
+        },
+        "minecraft:wheat",
+        "minecraft:crimson_fungus",
+        "minecraft:warped_fungus",
+        "minecraft:crimson_roots",
+        "minecraft:warped_roots",
+        "minecraft:baked_potato",
+        "minecraft:bread",
+        "minecraft:cookie",
+        "minecraft:hay_block",
+        "minecraft:red_mushroom_block",
+        "minecraft:brown_mushroom_block",
+        "minecraft:nether_wart_block",
+        "minecraft:warped_wart_block",
+        "minecraft:cake",
+        "minecraft:pumpkin_pie"
+    ]
+}

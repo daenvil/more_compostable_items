@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Recyclecraft",
+        "description": "Daenvil's Recyclecraft datapacks",
+        "icon": {
+            "item": "minecraft:composter"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
