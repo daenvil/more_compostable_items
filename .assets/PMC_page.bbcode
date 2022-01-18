@@ -1,0 +1,91 @@
+This datapack aims to add composting mechanics to all vanilla items which [i]should[/i] be compostable, being as close as possible to vanilla mechanics.
+
+[h2]Features[/h2]New compostable items, including rotten flesh, poisonous potatoes, foods, and many more (see the list below). These new items are compostable in the following ways:
+[list]
+[*]By putting them in a hopper on top of a composter, the same way you would do with vanilla-compostable items.[/*]
+[/list][center][img title="Composting a poisonous potato via hopper" width=480 height=270]https://github.com/daenvil/more_compostable_items/blob/main/.wiki_assets/screenshots/hopper.gif?raw=true[/img][/center][list]
+[*]By dropping them [i]inside[/i] a composter (vanilla items are also given this feature).[/*]
+[/list][center][img title="Composting a poisonous potato via hopper" width=480 height=270]https://github.com/daenvil/more_compostable_items/blob/main/.wiki_assets/screenshots/dropping.gif?raw=true[/img][/center]
+[i]Note: composting items by dropping them inside composters can be disabled (see the "Available commands" section)[/i]
+
+[style b color=#e74c3c]WARNING:[/style] Custom-composting only works with composters that are placed by players. This means that it wont work with world-generated composters, with composters summoned via commands, or with composters placed [i]before[/i] the datapack was installed. Simply [b]break a composter and place it again manually to make the datapack register it[/b].
+
+[img=Supported MC versions]https://img.shields.io/badge/supported%20MC%20versions-1.16.2%2B-green?style=flat-square[/img] [img=Tested versions]https://img.shields.io/badge/tested%20in-1.16.5%2C%201.17.1%2C%201.18.1-informational?style=flat-square[/img]
+[hr]
+[h2]Full list of new compostable items[/h2][spoiler=10% chance:]
+- Sugar
+- Honeycomb
+- Spider eye
+- Fermented spider eye
+- Phantom membrane
+- Scute
+- Rabbit hide
+- Bamboo
+- String
+- Feather
+- Slimeball
+- Magma cream
+- Ink Sac (both glow and regular)
+- Any dye
+- Stick
+- Carpets
+[/spoiler]
+[spoiler=30% chance:]
+- Chorus fruit
+- Popped chorus fruit
+- Chorus flower
+- Honey block
+- Honeycomb block
+- Rotten flesh
+- Egg
+- Turtle egg
+- Leather
+- Dead bush
+- Charcoal
+- Wool
+- Slime block
+- Nautilus shell
+- Paper
+- Cobweb
+[/spoiler]
+[spoiler=50% chance:]
+- Raw/cooked chicken, cod, mutton, porkchop, rabbit, beef, and salmon
+- Rabbit's foot
+- Pufferfish
+- Tropical fish
+- Crimson/warped nylium
+[/spoiler]
+[spoiler=65% chance:]
+- Poisonous potato
+- Corals (dead or alive)
+- Bee nest
+[/spoiler]
+[spoiler=85% chance:]
+- Beetroot soup
+- Mushroom/rabbit/suspicious stew
+- Coral blocks (dead or alive)
+[/spoiler]
+[spoiler=100% chance:]
+- Mycelium
+[/spoiler]
+[hr]
+[h2]Other info:[/h2]
+[spoiler=Customization]This datapack provides item tags for 10%, 30%, 50%, 65%, 85%, and 100% composting chances. You can find their .json files in [i]<this datapack>/data/dnv.recyclecraft/tags/items/[/i]. If you want to customize the datapack for your own use, edit those files however you want (simply add/remove any item you want in those lists and it will become compostable/uncompostable).
+
+Warning: there is another item tag for vanilla-compostable items, do not edit that one unless you know what you are doing. It is used to detect when a hopper is containing them as to not overlap vanilla-composting with custom-composting, otherwise, both mechanics would function at the same time, breaking the intended effect of this datapack.[/spoiler]
+[spoiler=Available commands]There are some commands that you can optionally use with this datapack:
+
+- "[color=#18a085]/function dnv.compost:dropping_toggle[/color]": enables or disables compost-by-dropping ([b]on[/b] by default). Disable it if you don't want compostable items that drop inside a composter to be composted.
+- "[color=#18a085]/function dnv.compost:uninstall[/color]": removes all the entities and scoreboard objectives created by this datapack. Run this function if you want to stop using the datapack to ensure it leaves no trace. All composter markers will be removed, meaning that if you want to use the datapack again after uninstalling it, you will have to manually replace already existing composters in order for the datapack to register them again.[/spoiler]
+[spoiler=Legal terms]You are allowed to:
+
+- Download, use, and edit this datapack* [b]for personal use[/b].
+- Use this datapack or variations of it in a Minecraft server.
+- Create public content that uses this datapack or variations of it (e.g. gameplay videos on online platforms), as long as you [b]acknowledge me (Daenvil) as the author of this datapack[/b] and provide a link to [url=https://github.com/daenvil/more_compostable_items]this Github repository[/url] or [url=/data-pack/more-compostable-items/]this datapack's page on PlanetMinecraft[/url].
+
+You are [b]not[/b] allowed to:
+
+- Publish this datapack or variations of it without explicit permission from me.
+
+*[i]For all legal purposes, "this datapack" refers to all the files (source code, images, and any other) present in this repository (https://github.com/daenvil/more_compostable_items) or downloadable from this page's Download button.[/i][/spoiler]
+You can find more info on [url=https://github.com/daenvil/more_compostable_items]this datapack's Github repository[/url].

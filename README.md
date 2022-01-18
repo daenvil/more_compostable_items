@@ -19,11 +19,11 @@ This datapack aims to add composting mechanics to all vanilla items which *shoul
 New compostable items, including rotten flesh, poisonous potatoes, foods, and many more (see the list below). These new items are compostable in the following ways:
 - By putting them in a hopper on top of a composter, the same way you would do with vanilla-compostable items.
   <p align="center">
-  <img src="./.wiki_assets/screenshots/hopper.gif" alt="Composting a poisonous potato via hopper" width=480 height=auto/>
+  <img src="./.assets/screenshots/hopper.gif" alt="Composting a poisonous potato via hopper" width=480 height=auto/>
   </p>
 - By dropping them *inside* a composter (vanilla items are also given this feature).
   <p align="center">
-  <img src="./.wiki_assets/screenshots/dropping.gif" alt="Composting a poisonous potato by dropping it" align="middle" width=480 height=auto/>
+  <img src="./.assets/screenshots/dropping.gif" alt="Composting a poisonous potato by dropping it" align="middle" width=480 height=auto/>
   </p>
 *Note: composting items by dropping them inside composters can be disabled (see ["Available commands" section)](#available-commands)*
 
