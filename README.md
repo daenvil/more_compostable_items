@@ -158,8 +158,8 @@ You are not allowed to:
 ## Contact
 
 Daenvil:
-- PlanetMinecraft profile: [daenvil](https://www.planetminecraft.com/member/daenvil/)
-- Discord: [Daenvil#9550](https://discordapp.com/users/395951130380730369)
+- **PlanetMinecraft** profile: [daenvil](https://www.planetminecraft.com/member/daenvil/)
+- **Discord**: *Daenvil#9550* (you can find me on the [MC Datapacks server](https://discord.gg/SnJQcfq))
   
 ## Explanation for datapackers/modders
 
