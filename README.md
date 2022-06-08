@@ -25,7 +25,7 @@ New compostable items, including rotten flesh, poisonous potatoes, foods, and ma
   <p align="center">
   <img src="./.assets/screenshots/dropping.gif" alt="Composting a poisonous potato by dropping it" align="middle" width=480 height=auto/>
   </p>
-*Note: composting items by dropping them inside composters can be disabled (see ["Available commands" section)](#available-commands)*
+*Note: composting items by dropping them inside composters can be disabled (see ["Available commands"](#available-commands) section)*
 
 You can watch a full showcase of this datapack on [Youtube](https://youtu.be/S8mXr1R7Kl0).
 
@@ -152,7 +152,7 @@ You are allowed to:
 
 - Download, use, and edit this datapack[^1] **for personal use**.
 - Use this datapack or variations of it in a Minecraft server.
-- Create public content that uses this datapack or variations of it (e.g. gameplay videos on online platforms), as long as you **acknowledge me (Daenvil) as the author of this datapack** and provide a link to [this Github repository](https://github.com/daenvil/more_compostable_items) or [this datapack's page on PlanetMinecraft](TBR)
+- Create public content that uses this datapack or variations of it (e.g. gameplay videos on online platforms), as long as you **acknowledge me (Daenvil) as the author of this datapack** and provide a link to [this Github repository](https://github.com/daenvil/more_compostable_items) or [this datapack's page on PlanetMinecraft](https://www.planetminecraft.com/data-pack/more-compostable-items/)
 
 You are not allowed to:
 
@@ -163,8 +163,8 @@ You are not allowed to:
 ## Contact
 
 Daenvil:
-- PlanetMinecraft profile: [daenvil](https://www.planetminecraft.com/member/daenvil/)
-- Discord: [Daenvil#9550](https://discordapp.com/users/395951130380730369)
+- **PlanetMinecraft** profile: [daenvil](https://www.planetminecraft.com/member/daenvil/)
+- **Discord**: *Daenvil#9550* (you can find me on the [MC Datapacks server](https://discord.gg/SnJQcfq))
   
 ## Explanation for datapackers/modders
 
