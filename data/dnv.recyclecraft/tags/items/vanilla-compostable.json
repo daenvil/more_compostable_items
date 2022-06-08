@@ -93,6 +93,10 @@
         "minecraft:nether_wart_block",
         "minecraft:warped_wart_block",
         "minecraft:cake",
-        "minecraft:pumpkin_pie"
+        "minecraft:pumpkin_pie",
+        {
+            "id": "minecraft:mangrove_roots",
+            "required": false
+        }
     ]
 }

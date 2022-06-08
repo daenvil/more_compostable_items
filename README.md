@@ -7,9 +7,9 @@ This datapack aims to add composting mechanics to all vanilla items which *shoul
 ## Downloads
 
 ![Minecraft supported versions](https://img.shields.io/badge/supported%20MC%20versions-1.16.2%2B-green?style=flat-square)
-![Tested versions](https://img.shields.io/badge/tested%20in-1.16.5%2C%201.17.1%2C%201.18.1-informational?style=flat-square)
+![Tested versions](https://img.shields.io/badge/tested%20in-1.16.5%2C%201.17.1%2C%201.18.1%2C%201.19-informational?style=flat-square)
 
-- Latest Release (v1): [Github](https://github.com/daenvil/more_compostable_items/releases/download/v1/more_compostable_items_v1.zip) | [PlanetMinecraft](https://www.planetminecraft.com/data-pack/more-compostable-items/)
+- Latest Release (v1.1): [Github](https://github.com/daenvil/more_compostable_items/releases/download/v1.1/more_compostable_items_v1.1.zip) | [PlanetMinecraft](https://www.planetminecraft.com/data-pack/more-compostable-items/)
 
 ### Installation
 - Drop the datapack zip file inside the "datapacks" folder of your world folder (*\<your minecraft folder\>/saves/\<your world\>/datapacks/*).
@@ -74,6 +74,8 @@ This datapack was tested in a multiplayer server with ~10 players and performed 
 - Nautilus shell
 - Paper
 - Cobweb
+- Goat horn
+- Muddy mangrove roots
 
 </details> 
  
@@ -103,6 +105,7 @@ This datapack was tested in a multiplayer server with ~10 players and performed 
 - Beetroot soup
 - Mushroom/rabbit/suspicious stew
 - Coral blocks (dead or alive)
+- Sculk vein
 
 </details> 
  
@@ -110,6 +113,8 @@ This datapack was tested in a multiplayer server with ~10 players and performed 
 <summary>100% chance:</summary>
 
 - Mycelium
+- Sculk
+- Sculk catalyst/shrieker/sensor
 
 </details>
 
@@ -158,8 +163,8 @@ You are not allowed to:
 ## Contact
 
 Daenvil:
-- **PlanetMinecraft** profile: [daenvil](https://www.planetminecraft.com/member/daenvil/)
-- **Discord**: *Daenvil#9550* (you can find me on the [MC Datapacks server](https://discord.gg/SnJQcfq))
+- PlanetMinecraft profile: [daenvil](https://www.planetminecraft.com/member/daenvil/)
+- Discord: [Daenvil#9550](https://discordapp.com/users/395951130380730369)
   
 ## Explanation for datapackers/modders
 

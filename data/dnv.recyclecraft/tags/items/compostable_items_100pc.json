@@ -2,6 +2,22 @@
     "values":[
         "minecraft:cake",
         "minecraft:pumpkin_pie",
-        "minecraft:mycelium"
+        "minecraft:mycelium",
+        {
+            "id":"minecraft:sculk",
+            "required":false
+        },
+        {
+            "id":"minecraft:sculk_catalyst",
+            "required":false
+        },
+        {
+            "id":"minecraft:sculk_shrieker",
+            "required":false
+        },
+        {
+            "id":"minecraft:sculk_sensor",
+            "required":false
+        }
     ]
 }

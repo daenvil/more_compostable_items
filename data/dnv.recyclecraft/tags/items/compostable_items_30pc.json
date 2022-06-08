@@ -54,6 +54,22 @@
         "minecraft:slime_block",
         "minecraft:nautilus_shell",
         "minecraft:paper",
-        "minecraft:cobweb"
+        "minecraft:cobweb",
+        {
+            "id":"minecraft:goat_horn",
+            "required":false
+        },
+        {
+            "id":"minecraft:mangrove_roots",
+            "required":false
+        },
+        {
+            "id":"minecraft:muddy_mangrove_roots",
+            "required":false
+        },
+        {
+            "id": "minecraft:mangrove_leaves",
+            "required": false
+        }
     ]
 }
