@@ -1,4 +1,4 @@
-# Called by function dnv.recyclecraft:compost/hopper_tick
+# Called by function dnv.recyclecraft:compost/custom_composting/hopper_tick
 # @s = composter marker
 # position = composter marker position
 # Increases composter level by 1, if possible, and creates the corresponding visual and sound effects.

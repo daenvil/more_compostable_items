@@ -1,6 +1,6 @@
 {
     "pack": {
-        "pack_format":10,
+        "pack_format":15,
         "description": [
             {
                 "text": "Daenvil",
@@ -17,7 +17,7 @@
                 "underlined": true
             },
             {
-                "text": "\nv1.1, for MC1.16.2+",
+                "text": "\nv1.2, for MC1.20+",
                 "color":"gray"
             }
         ]

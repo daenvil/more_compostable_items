@@ -3,7 +3,16 @@
         "placed_composter": {
             "trigger": "minecraft:placed_block",
             "conditions": {
-                "block": "minecraft:composter"
+                "location": [
+                    {
+                        "condition": "location_check",
+                        "predicate": {
+                            "block": {
+                                "id": "composter"
+                            }
+                        }
+                    }
+                ]
             }
         }
     },

@@ -97,6 +97,18 @@
         {
             "id": "minecraft:mangrove_roots",
             "required": false
+        },
+        {
+            "id": "minecraft:pink_petals",
+            "required": false
+        },
+        {
+            "id": "minecraft:torchflower_seeds",
+            "required": false
+        },
+        {
+            "id": "minecraft:pitcher_pod",
+            "required": false
         }
     ]
 }
