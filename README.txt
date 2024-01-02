@@ -1,4 +1,4 @@
-# More Compostable Items (v1.2, for Minecraft 1.20+)
+# More Compostable Items (v1.2.1, for Minecraft 1.20+)
 
 A datapack that adds composting mechanics to all vanilla items which *should* be compostable, being as close as possible to vanilla mechanics. Fully customizable.
 

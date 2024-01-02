@@ -7,7 +7,14 @@
             "id": "minecraft:glow_berries",
             "required": false
         },
-        "minecraft:grass",
+        {
+            "id": "minecraft:grass",
+            "required": false
+        },
+        {
+            "id": "minecraft:short_grass",
+            "required": false
+        },
         "minecraft:fern",
         "minecraft:tall_grass",
         "minecraft:large_fern",
@@ -59,7 +66,8 @@
         },
         "minecraft:carrot",
         "minecraft:cocoa_beans",
-        "#minecraft:flowers",
+        "#minecraft:small_flowers",
+        "#minecraft:tall_flowers",
         "minecraft:lily_pad",
         "minecraft:melon",
         {
