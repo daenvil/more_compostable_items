@@ -1,0 +1,18 @@
+{
+    "criteria": {
+        "placed_composter": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "location": [
+                    {
+                        "condition": "block_state_property",
+                        "block": "composter"
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "function": "zz.dnv.compost:on_placed_composter"
+    }
+}

@@ -3,7 +3,7 @@
         "title": "Recyclecraft",
         "description": "Daenvil's Recyclecraft datapacks",
         "icon": {
-            "item": "minecraft:composter"
+            "id": "minecraft:composter"
         },
         "announce_to_chat": false,
         "show_toast": false

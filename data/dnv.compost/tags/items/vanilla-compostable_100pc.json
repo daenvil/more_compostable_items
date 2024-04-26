@@ -1,0 +1,7 @@
+{
+	"_comment_": "Contains all items which are compostable in vanilla with 100% chance",
+	"values": [
+		"cake",
+        "pumpkin_pie"
+	]
+}

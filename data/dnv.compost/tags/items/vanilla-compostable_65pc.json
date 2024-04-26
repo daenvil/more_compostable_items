@@ -1,0 +1,33 @@
+{
+	"_comment_": "Contains all items which are compostable in vanilla with 65% chance",
+	"values": [
+		"apple",
+        "azalea",
+        "beetroot",
+        "big_dripleaf",
+        "carrot",
+        "cocoa_beans",
+        "fern",
+        "#small_flowers",
+        "#tall_flowers",
+        "crimson_fungus",
+        "warped_fungus",
+        "large_fern",
+        "lily_pad",
+        "melon",
+        "moss_block",
+        "red_mushroom",
+        "brown_mushroom",
+        "mushroom_stem",
+        "nether_wart",
+        "potato",
+        "pumpkin",
+        "carved_pumpkin",
+        "crimson_roots",
+        "warped_roots",
+        "sea_pickle",
+        "shroomlight",
+        "spore_blossom",
+        "wheat"
+	]
+}
