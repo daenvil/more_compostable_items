@@ -6,3 +6,6 @@ execute if score dnv.dummy dnv.comp.drop_on matches 2 run scoreboard players set
 
 execute if score dnv.dummy dnv.comp.drop_on matches 1 run tellraw @s {"text":"[Daenvil's More Compostable Items]: compost-by-dropping enabled.","color":"green"}
 execute if score dnv.dummy dnv.comp.drop_on matches 0 run tellraw @s {"text":"[Daenvil's More Compostable Items]: compost-by-dropping disabled.","color":"red"}
+
+execute if score dnv.dummy dnv.comp.drop_on matches 1 run schedule function zz.dnv.compost:drop-composting/update 3t replace
+execute if score dnv.dummy dnv.comp.drop_on matches 0 run schedule clear zz.dnv.compost:drop-composting/update

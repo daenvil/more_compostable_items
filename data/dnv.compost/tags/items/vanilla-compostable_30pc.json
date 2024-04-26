@@ -1,0 +1,24 @@
+{
+	"_comment_": "Contains all items which are compostable in vanilla with 30% chance",
+	"values": [
+		"beetroot_seeds",
+		"dried_kelp",
+		"glow_berries",
+		"hanging_roots",
+		"#saplings",
+		"mangrove_roots",
+		"kelp",
+		"#leaves",
+		"melon_seeds",
+		"moss_carpet",
+		"pink_petals",
+		"pitcher_pod",
+		"pumpkin_seeds",
+		"seagrass",
+		"short_grass",
+		"small_dripleaf",
+		"sweet_berries",
+		"torchflower_seeds",
+		"wheat_seeds"
+	]
+}

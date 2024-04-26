@@ -1,0 +1,10 @@
+{
+    "_comment_": "Contains all items which are compostable in vanilla",
+    "values":[
+        "#dnv.compost:vanilla-compostable_30pc",
+        "#dnv.compost:vanilla-compostable_50pc",
+        "#dnv.compost:vanilla-compostable_65pc",
+        "#dnv.compost:vanilla-compostable_85pc",
+        "#dnv.compost:vanilla-compostable_100pc"
+    ]
+}

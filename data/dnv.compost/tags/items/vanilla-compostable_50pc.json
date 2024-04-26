@@ -1,0 +1,15 @@
+{
+	"_comment_": "Contains all items which are compostable in vanilla with 50% chance",
+	"values": [
+		"cactus",
+        "dried_kelp_block",
+        "glow_lichen",
+        "melon_slice",
+        "nether_sprouts",
+        "sugar_cane",
+        "tall_grass",
+        "twisting_vines",
+        "vine",
+        "weeping_vines"
+	]
+}
