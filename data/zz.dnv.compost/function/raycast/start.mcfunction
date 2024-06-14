@@ -6,7 +6,7 @@
 execute store result score @s dnv.raycast_range run attribute @s player.block_interaction_range get -10
 # dnv.raycast_range_doubled acts as a second counter in case the first method files:
 scoreboard players operation @s dnv.raycast_range_doubled = @s dnv.raycast_range
-scoreboard players operation @s dnv.raycast_range_doubled *= dnv.dummy dnv.TWO
+scoreboard players operation @s dnv.raycast_range_doubled *= #dnv dnv.TWO
 
 scoreboard players set @s dnv.comp.found 0
 execute anchored eyes positioned ^ ^ ^ run function zz.dnv.compost:raycast/find_line

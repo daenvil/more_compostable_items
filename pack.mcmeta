@@ -1,7 +1,7 @@
 {
     "pack": {
-        "pack_format":41,
-        "supported_formats": {"min_inclusive": 39, "max_inclusive": 42},
+        "pack_format":48,
+        "supported_formats": {"min_inclusive": 47, "max_inclusive": 49},
         "description": [
             {
                 "text": "Daenvil",
@@ -18,7 +18,7 @@
                 "underlined": true
             },
             {
-                "text": "\nv1.3, for MC1.20.5",
+                "text": "\nv1.3.1, for MC1.21+",
                 "color":"gray"
             }
         ]
