@@ -3,7 +3,7 @@
 # Objective dnv.comp.found functions as both a tracker of how many steps were done (in negative numbers) and as confirmation of success (1)
 
 # dnv.raycast_range contains the current interaction range multiplied by 10 (to do steps of 0.1 blocks) and in negative value:
-execute store result score @s dnv.raycast_range run attribute @s block_interaction_range get -10
+execute store result score @s dnv.raycast_range run attribute @s player.block_interaction_range get -10
 # dnv.raycast_range_doubled acts as a second counter in case the first method files:
 scoreboard players operation @s dnv.raycast_range_doubled = @s dnv.raycast_range
 scoreboard players operation @s dnv.raycast_range_doubled *= #dnv dnv.TWO
