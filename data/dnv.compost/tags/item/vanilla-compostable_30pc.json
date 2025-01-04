@@ -19,6 +19,14 @@
 		"small_dripleaf",
 		"sweet_berries",
 		"torchflower_seeds",
-		"wheat_seeds"
+		"wheat_seeds",
+		{
+			"id": "pale_moss_carpet",
+			"required": false
+		},
+		{
+			"id": "pale_hanging_moss",
+			"required": false
+		}
 	]
 }

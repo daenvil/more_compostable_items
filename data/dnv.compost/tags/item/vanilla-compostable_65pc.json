@@ -9,7 +9,11 @@
         "cocoa_beans",
         "fern",
         "#small_flowers",
-        "#tall_flowers",
+        "sunflower",
+        "lilac",
+        "peony",
+        "rose_bush",
+        "pitcher_plant",
         "crimson_fungus",
         "warped_fungus",
         "large_fern",
@@ -28,6 +32,10 @@
         "sea_pickle",
         "shroomlight",
         "spore_blossom",
-        "wheat"
+        "wheat",
+        {
+            "id": "pale_moss_block",
+            "required": false
+        }
 	]
 }
