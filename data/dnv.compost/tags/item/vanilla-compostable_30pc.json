@@ -20,13 +20,14 @@
 		"sweet_berries",
 		"torchflower_seeds",
 		"wheat_seeds",
-		{
-			"id": "pale_moss_carpet",
-			"required": false
-		},
-		{
-			"id": "pale_hanging_moss",
-			"required": false
-		}
+		"pale_moss_carpet",
+		"pale_hanging_moss",
+		"bush",
+		"firefly_bush",
+		"cactus_flower",
+		"short_dry_grass",
+		"tall_dry_grass",
+		"leaf_litter",
+		"wildflowers"
 	]
 }
