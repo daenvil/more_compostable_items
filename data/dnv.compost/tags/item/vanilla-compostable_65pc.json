@@ -20,8 +20,6 @@
         "lily_pad",
         "melon",
         "moss_block",
-        "red_mushroom",
-        "brown_mushroom",
         "mushroom_stem",
         "nether_wart",
         "potato",
@@ -33,9 +31,8 @@
         "shroomlight",
         "spore_blossom",
         "wheat",
-        {
-            "id": "pale_moss_block",
-            "required": false
-        }
+        "pale_moss_block",
+        "#mushrooms",
+        "straw_bed"
 	]
 }

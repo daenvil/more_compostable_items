@@ -3,12 +3,10 @@
         "placed_composter": {
             "trigger": "minecraft:placed_block",
             "conditions": {
-                "location": [
-                    {
-                        "condition": "block_state_property",
-                        "block": "composter"
-                    }
-                ]
+                "location": {
+                    "type": "match_block",
+                    "blocks": "composter"
+                }
             }
         }
     },

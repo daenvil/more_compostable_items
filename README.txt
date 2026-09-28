@@ -1,13 +1,13 @@
-# More Compostable Items (v1.4.1, for Minecraft 1.21.9+)
+# More Compostable Items (v1.4.2, for Minecraft 26.3)
 
 A datapack that adds composting mechanics to all vanilla items which *should* be compostable, being as close as possible to vanilla mechanics. Fully customizable.
 
 - This datapack was made by Daenvil, its official pages are:
 
-  - On PlanetMinecraft: https://www.planetminecraft.com/data-pack/more-compostable-items/
+  - On Modrinth: https://modrinth.com/datapack/more-compostable-items
   - On my website: https://daenvil.github.io/MCDatapacks/more_compostable_items.html
 
-- This version was published on the 3rd of October 2025. Check the webpages above for possible updates.
+- This version was published on the 28th of September 2026. Check the webpages above for possible updates.
 
 ## Installation
 
@@ -25,7 +25,7 @@ You are allowed to:
 
 - Download, use, and edit this datapack* for personal use.
 - Use this datapack or variations of it in a Minecraft server.
-- Publish audiovisual content that uses this datapack or variations of it (e.g. gameplay videos on online platforms), as long as you acknowledge me (Daenvil) as the author of this datapack and provide a link to its page on PlanetMinecraft (https://www.planetminecraft.com/data-pack/more-compostable-items/) or to its webpage (https://daenvil.github.io/MCDatapacks/more_compostable_items.html).
+- Publish audiovisual content that uses this datapack or variations of it (e.g. gameplay videos on online platforms), as long as you acknowledge me (Daenvil) as the author of this datapack and provide a link to its page on Modrinth (https://modrinth.com/datapack/more-compostable-items) or to its webpage (https://daenvil.github.io/MCDatapacks/more_compostable_items.html).
 - Share this datapack or variations of it privately (e.g. transferring the files to friends), as long as there is no financial profit involved, the files are not publicly available, and this text file is included with the files you share.
 
 You are not allowed to:
