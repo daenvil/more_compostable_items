@@ -1,0 +1,19 @@
+{
+	"criteria": {
+		"interacted_with_entity_container": {
+			"trigger": "player_interacted_with_entity",
+			"conditions": {
+				"entity": {
+					"type": "entity_properties",
+					"entity": "this",
+					"predicate": {
+						"entity_type": "#dnv.compost:entity_containers"
+					}
+				}
+			}
+		}
+	},
+	"rewards": {
+		"function": "zz.dnv.compost:slots/on_interacted_with_entity_container"
+	}
+}

@@ -1,0 +1,53 @@
+{
+	"criteria": {
+		"placed_composter": {
+			"trigger": "placed_block",
+			"conditions": {
+				"location": {
+					"type": "location_check",
+					"predicate": {
+						"block": {
+							"blocks": "composter"
+						}
+					}
+				}
+			}
+		},
+		"placed_hopper_on_composter": {
+			"trigger": "placed_block",
+			"conditions": {
+				"location": {
+					"type": "all_of",
+					"terms": [
+						{
+							"type": "location_check",
+							"predicate": {
+								"block": {
+									"blocks": "hopper"
+								}
+							}
+						},
+						{
+							"type": "location_check",
+							"predicate": {
+								"block": {
+									"blocks": "composter"
+								}
+							},
+							"offsetY": -1
+						}
+					]
+				}
+			}
+		}
+	},
+	"requirements": [
+		[
+			"placed_composter",
+			"placed_hopper_on_composter"
+		]
+	],
+	"rewards": {
+		"function": "zz.dnv.compost:slots/on_placed_composter"
+	}
+}

@@ -1,26 +1,32 @@
 {
-    "pack": {
-        "min_format": 121,
-        "max_format": 141,
-        "description": [
-            {
-                "text": "Daenvil",
-                "color": "green"
-            },
-            {
-                "text": "'s ",
-                "color": "white"
-            },
-            {
-                "text": "More Compostable Items",
-                "color": "white",
-                "bold": false,
-                "underlined": true
-            },
-            {
-                "text": "\nv1.4.2, for MC26.3",
-                "color":"gray"
-            }
-        ]
-    }
+	"pack": {
+		"description": {
+			"text": "Daenvil",
+			"extra": [
+				{
+					"text": "'s ",
+					"color": "white",
+					"italic": false
+				},
+				{
+					"text": "Compostable Items",
+					"color": "white",
+					"italic": false,
+					"underlined": true
+				},
+				{
+					"text": "\nv2.0, for MC26.3+",
+					"color": "gray",
+					"italic": false
+				}
+			],
+			"color": "green",
+			"italic": false
+		},
+		"min_format": [
+			121,
+			0
+		],
+		"max_format": 141
+	}
 }

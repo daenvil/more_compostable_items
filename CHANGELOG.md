@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.0] - 2026-10-11 
+
+Reworked whole datapack to use new customizable composting functionality in Minecraft 26.3:
+
+- Items can now be composted with right click
+- Composting by dropping has been removed
+- Hopper minecarts are now supported
+- Performance of the datapack should be greatly improved since now more logic is handled directly by vanilla Minecraft
+
 ## [1.4.2] - 2026-09-28
 
 - Wool stairs are compostable with 30% chance

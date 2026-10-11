@@ -1,14 +1,8 @@
-# Called by user
-
-kill @e[tag=dnv.composter_marker]
-
-scoreboard objectives remove dnv.comp.debug
-scoreboard objectives remove dnv.comp.drop_on
-scoreboard objectives remove dnv.comp.has_marker
-scoreboard objectives remove dnv.comp.deletion_timer
-scoreboard objectives remove dnv.comp.found
-scoreboard objectives remove dnv.comp.item_found
-scoreboard objectives remove dnv.comp.hopper_slot
-scoreboard objectives remove dnv.comp.item_count
-scoreboard objectives remove dnv.comp.hopper_cd
-scoreboard objectives remove dnv.comp.success
+scoreboard objectives remove dnv.compost.target_found
+scoreboard objectives remove dnv.compost.raycast_range
+scoreboard objectives remove dnv.compost.raycast_range_doubled
+scoreboard objectives remove dnv.2
+scoreboard objectives remove dnv.compost.found
+kill @e[type=marker,tag=dnv.compost.marker]
+# Also remove pre-v2.0 markers just in case:
+kill @e[type=armor_stand,tag=dnv.composter_marker]
