@@ -1,0 +1,3 @@
+execute if block ~ ~ ~ composter run function zz.dnv.compost:raycast/success
+execute if score @s dnv.compost.target_found matches ..0 if score @s dnv.compost.target_found >= @s dnv.compost.raycast_range run scoreboard players remove @s dnv.compost.target_found 1
+execute if score @s dnv.compost.target_found matches ..0 if score @s dnv.compost.target_found >= @s dnv.compost.raycast_range positioned ^ ^ ^.1 run function zz.dnv.compost:raycast/narrow

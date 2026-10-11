@@ -1,17 +1,23 @@
 {
-    "display": {
-        "title": "More Compostable Items",
-        "description": "Daenvil's More Compostable Items datapack (v1.4.2, for MC26.3)",
-        "icon": {
-            "id": "minecraft:bone_meal"
-        },
-        "announce_to_chat": false,
-        "show_toast": false
-    },
-    "parent": "global:dnv.recyclecraft",
-    "criteria": {
-        "trigger": {
-            "trigger": "minecraft:tick"
-        }
-    }
+	"parent": "global:dnv.recyclecraft",
+	"display": {
+		"title": {
+			"text": "More Compostable Items",
+			"italic": false
+		},
+		"description": {
+			"text": "Daenvil's More Compostable Items 2.0 (for MC26.3+)",
+			"italic": false
+		},
+		"icon": {
+			"id": "bone_meal"
+		},
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"criteria": {
+		"tick": {
+			"trigger": "tick"
+		}
+	}
 }

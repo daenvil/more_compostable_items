@@ -1,4 +1,4 @@
-# More Compostable Items (v1.4.2, for Minecraft 26.3)
+# More Compostable Items (v2.0, for Minecraft 26.3+)
 
 A datapack that adds composting mechanics to all vanilla items which *should* be compostable, being as close as possible to vanilla mechanics. Fully customizable.
 
@@ -7,15 +7,13 @@ A datapack that adds composting mechanics to all vanilla items which *should* be
   - On Modrinth: https://modrinth.com/datapack/more-compostable-items
   - On my website: https://daenvil.github.io/MCDatapacks/more_compostable_items.html
 
-- This version was published on the 28th of September 2026. Check the webpages above for possible updates.
+- This version was published on 11th of October 2026. Check the webpages above for possible updates.
 
 ## Installation
 
 - Drop the datapack zip file inside the "datapacks" folder of your world folder (<your minecraft folder>/saves/<your world>/datapacks/).
 
 ## Features
-
-DROP items inside composters or use hoppers to compost them. Custom-composting by right-clicking is NOT supported due to technical limitations.
 
 You can find the full list of features and more info on this page: https://daenvil.github.io/MCDatapacks/more_compostable_items.html
 

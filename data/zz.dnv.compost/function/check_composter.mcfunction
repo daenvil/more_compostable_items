@@ -1,0 +1,2 @@
+execute if block ~ ~ ~ composter if block ~ ~1 ~ hopper positioned ~ ~1 ~ run function zz.dnv.compost:modify_hopper_items
+execute unless block ~ ~ ~ composter run function zz.dnv.compost:check_composterless_marker

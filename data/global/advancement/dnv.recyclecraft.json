@@ -1,17 +1,23 @@
 {
-    "display": {
-        "title": "Recyclecraft",
-        "description": "Daenvil's Recyclecraft datapacks",
-        "icon": {
-            "id": "minecraft:composter"
-        },
-        "announce_to_chat": false,
-        "show_toast": false
-    },
-    "parent": "global:root",
-    "criteria": {
-        "trigger": {
-            "trigger": "minecraft:tick"
-        }
-    }
+	"parent": "global:root",
+	"display": {
+		"title": {
+			"text": "Recyclecraft",
+			"italic": false
+		},
+		"description": {
+			"text": "Daenvil's Recyclecraft datapacks",
+			"italic": false
+		},
+		"icon": {
+			"id": "composter"
+		},
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"criteria": {
+		"tick": {
+			"trigger": "tick"
+		}
+	}
 }

@@ -1,0 +1,17 @@
+{
+	"criteria": {
+		"has_item_tag_dnv.compost:custom_compostable_items": {
+			"trigger": "inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "#dnv.compost:custom_compostable_items"
+					}
+				]
+			}
+		}
+	},
+	"rewards": {
+		"function": "zz.dnv.compost:slots/on_got_compostable_item"
+	}
+}

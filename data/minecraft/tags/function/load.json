@@ -1,5 +1,5 @@
 {
-    "values": [
-        "zz.dnv.compost:load"
-    ]
+	"values": [
+		"zz.dnv.compost:on_load"
+	]
 }
